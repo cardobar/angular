@@ -40,5 +40,27 @@
 	  "subtitle": "prueba 1",
 	  "image":"https://i.ytimg.com/vi/Q3Hj9ItAdUM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAu0uvkLScz6aCXscHxkNqpOCh4cA"
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+	  "comment": "comentario de prueba 1"
+    },
+	{
+      "id": 2,
+	  "comment": "comentario de prueba 2"
+    },
+	{
+      "id": 3,
+	  "comment": "comentario de prueba 3"
+    },
+	{
+      "id": 4,
+	  "comment": "comentario de prueba 4"
+    },
+	{
+      "id": 5,
+	  "comment": "comentario de prueba 5"
+    }
   ]
 }
